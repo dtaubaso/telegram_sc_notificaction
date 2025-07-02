@@ -78,8 +78,10 @@ Incluye **un resumen textual + un gráfico** comparativo.
 
 > 💡 Recordá que Apps Script usa el huso horario del proyecto. Podés ajustarlo desde:  
 > `Archivo > Propiedades del proyecto > Zona horaria`.
-> Además, la hora es un rango, puede salir en cualquier horario dentro de esa hora.
-> También se puede configurar que envíe al instante un mail si hubo un error en "Notificaciones de falla"
+
+- Además, la hora es un rango, puede salir en cualquier horario dentro de esa hora.
+
+- También se puede configurar que envíe al instante un mail si hubo un error en "Notificaciones de falla"
 
 ![image](https://github.com/user-attachments/assets/5662043e-0d2b-4855-8f7f-25729d95a8a6)
 
