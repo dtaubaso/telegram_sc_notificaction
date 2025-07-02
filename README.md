@@ -4,7 +4,7 @@ Esta función de Google Apps Script envía una notificación diaria a Telegram c
 
 Para ello:
 
-Extraer datos de los últimos 28 días.
+Extrae datos de los últimos 28 días.
 
 Toma el día anterior y lo compara con el promedio de los mismos días de la semana anteriores
 
