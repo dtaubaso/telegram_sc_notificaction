@@ -68,14 +68,21 @@ Incluye **un resumen textual + un gráfico** comparativo.
 ## ⏰ Automatizar el envío diario (trigger)
 
 1. Dentro del proyecto de **Apps Script**, hacé clic en el menú 🕒 `Reloj` (Triggers).
-2. Crear un nuevo trigger (botón inferior derecha ➕).
-3. Elegir:
+   ![image](https://github.com/user-attachments/assets/78bef518-29d7-4f70-b88f-c4daa04fefc5)
+
+3. Crear un nuevo trigger (botón inferior derecha ➕).
+4. Elegir:
    - **Función**: `main` (o el nombre de tu función principal).
    - **Frecuencia**: `Tiempo basado > Día > Todos los días`.
    - **Hora sugerida**: Temprano por la mañana o según tu huso horario.
 
 > 💡 Recordá que Apps Script usa el huso horario del proyecto. Podés ajustarlo desde:  
 > `Archivo > Propiedades del proyecto > Zona horaria`.
+> Además, la hora es un rango, puede salir en cualquier horario dentro de esa hora.
+> También se puede configurar que envíe al instante un mail si hubo un error en "Notificaciones de falla"
+
+![image](https://github.com/user-attachments/assets/5662043e-0d2b-4855-8f7f-25729d95a8a6)
+
 
 ---
 
