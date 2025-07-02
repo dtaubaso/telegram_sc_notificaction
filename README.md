@@ -1,5 +1,8 @@
 # Notificación de tráfico diaria a Telegram
 
+![image](https://github.com/user-attachments/assets/e525158f-95d3-4707-a24b-626a64f3f1f7)
+
+
 Esta función de Google Apps Script envía una notificación diaria a Telegram con el tráfico de Search Console de un sitio.
 
 Para ello:
