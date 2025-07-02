@@ -70,7 +70,7 @@ Incluye **un resumen textual + un gráfico** comparativo.
 1. Dentro del proyecto de **Apps Script**, hacé clic en el menú 🕒 `Reloj` (Triggers).
    ![image](https://github.com/user-attachments/assets/78bef518-29d7-4f70-b88f-c4daa04fefc5)
 
-3. Crear un nuevo trigger (botón inferior derecha ➕).
+3. Crear un nuevo trigger (botón inferior derecha ➕ "Agregar activador").
 4. Elegir:
    - **Función**: `main` (o el nombre de tu función principal).
    - **Frecuencia**: `Tiempo basado > Día > Todos los días`.
